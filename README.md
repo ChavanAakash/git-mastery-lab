@@ -2,8 +2,6 @@
 
 A hands-on Git and GitHub repository.
 
-> **Learning rule:** Run the commands yourself, capture your own terminal/GitHub screenshots, and write what you learned. Do not upload passwords, access tokens, private keys, or other secrets.
-
 ## Repository Structure
 
 ```text
