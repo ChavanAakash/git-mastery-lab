@@ -623,13 +623,6 @@ Read the full error message, run `git status`, inspect the affected files, and u
 - [ ] Create an Issue and Pull Request
 - [ ] Add screenshots from my own practice sessions
 
-## 📸 Practical Evidence
-
-Keep your own screenshots in the repository's `screenshots/` folder and link them to the relevant practical. Before uploading, ensure screenshots do not expose tokens, passwords, private keys, or sensitive personal details.
-
-## 🌱 Keep Learning
-
-This knowledge base is a living document. Update it with your own examples, mistakes, fixes, and practical observations as your Git and DevOps skills grow.
 
 <div align="center">
 
