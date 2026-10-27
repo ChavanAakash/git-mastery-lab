@@ -1,0 +1,16 @@
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary files and logs
+*.tmp
+*.log
+
+# Secrets - never commit credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
